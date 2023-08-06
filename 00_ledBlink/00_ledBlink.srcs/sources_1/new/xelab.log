@@ -1,0 +1,14 @@
+Vivado Simulator v2022.2
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: /home/shin/tools/Xilinx/Vivado/2022.2/bin/unwrapped/lnx64.o/xelab tb_ledBlink -debug wave -s tb_ledBlink 
+Multi-threading is on. Using 10 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.counter_toggle
+Compiling module work.top_ledBlink
+Compiling module work.tb_ledBlink
+Built simulation snapshot tb_ledBlink
