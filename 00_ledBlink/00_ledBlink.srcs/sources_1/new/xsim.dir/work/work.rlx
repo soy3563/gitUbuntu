@@ -1,7 +1,0 @@
-0.7
-2020.2
-Oct 14 2022
-05:07:14
-/home/shin/project/00_ledBlink/00_ledBlink.srcs/sources_1/new/counter_toggle.v,1691124850,verilog,,,,counter_toggle,,,,XSIM_DEF,,,,
-/home/shin/project/00_ledBlink/00_ledBlink.srcs/sources_1/new/tb_ledBlink.v,1691128541,verilog,,/home/shin/project/00_ledBlink/00_ledBlink.srcs/sources_1/new/counter_toggle.v,,tb_ledBlink,,,,XSIM_DEF,,,,
-/home/shin/project/00_ledBlink/00_ledBlink.srcs/sources_1/new/top_ledBlink.v,1691127578,verilog,,/home/shin/project/00_ledBlink/00_ledBlink.srcs/sources_1/new/tb_ledBlink.v,,top_ledBlink,,,,XSIM_DEF,,,,
