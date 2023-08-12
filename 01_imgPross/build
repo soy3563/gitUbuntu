@@ -1,0 +1,4 @@
+xvlog ./config.v ./tb_testbench.v ./imgConv.v ./lineBuffer.v -d XSIM_DEF #xvlog for syntax check
+xelab tb_testbench -debug wave -s tb_testbench
+#xsim tb_testbench -R # do not check waveform
+xsim tb_testbench -gui -wdb simulate_xsim_tb_testbench.wdb
