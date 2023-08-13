@@ -1,0 +1,4 @@
+xvlog ./top_ledBlink.v ./tb_ledBlink.v ./counter_toggle.v -d XSIM_DEF #xvlog for syntax check
+xelab tb_ledBlink -debug wave -s tb_ledBlink
+#xsim tb_ledBlink -R # do not check waveform
+xsim tb_ledBlink -gui -wdb simulate_xsim_tb_ledBlink.wdb
